@@ -29,5 +29,5 @@ dados mínimos que possibilitem consultar quais foram vistos, por título, epis�
 ## Autora
 Carla Edila
 
-## License
+## Licença
 [MIT](https://choosealicense.com/licenses/mit/)
