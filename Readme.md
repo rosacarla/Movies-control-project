@@ -26,8 +26,15 @@ dados mínimos que possibilitem consultar quais foram vistos, por título, epis�
 
 - Frontend na porta 3000
 
-## Autora
-Carla Edila
+<p align="center"> 
+<img src="https://github.com/rosacarla/DIO-cloud-data-engineer/blob/main/014%20desafio-projeto-mysql/screenshots/frontend-react-movies.jpg" width="750">
+</p>
 
-## Licença
+## Autora  
+
+Carla Edila Silveira  
+Contato: rosa.carla@pucpr.edu.br
+
+## Licença  
+
 [MIT](https://choosealicense.com/licenses/mit/)
